@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+
+# IDEs
+.idea/
+.vscode/
+
+# Miscellaneous
+*.DS_Store
+*.log
+*.pot
+*.pyc
+*.swp
+*.bak
+*.tmp
+*~
